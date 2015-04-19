@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentenceList>
+    <sentence>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>The</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>term</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>"</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>First</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>World</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>War</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>"</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>was</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>first</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>used</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>in</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>September</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
+            <value>1914</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>by</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>German</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>philosopher</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Ernst</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Haeckel</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>,</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>who</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>claimed</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>that</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>"</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>there</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>is</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>no</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>doubt</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>that</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>course</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>and</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>character</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>of</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>feared</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>'European</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>War</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>'</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="true" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>...</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>will</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>become</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>first</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>world</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>war</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>in</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>full</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>sense</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>of</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>word.</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <value>"</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="true" isNumber="false" isParaStart="true" isSentBreak="false">
+            <value>Why</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>did</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>war</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>begin</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <value>?</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>The</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>immediate</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>trigger</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>for</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>war</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>was</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
+            <value>28</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>June</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
+            <value>1914</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>assassination</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>of</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Archduke</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Franz</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Ferdinand</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>of</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Austria</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>,</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>heir</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>to</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>throne</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>of</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Austria-Hungary</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>,</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>by</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Yugoslav</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>nationalist</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Gavrilo</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Princip</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>(</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
+            <value>19</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>years</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>old</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>at</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>time</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>)</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>in</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <value>Sarajevo.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>This</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>set</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>off</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>a</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>diplomatic</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>crisis</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>when</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Austria-Hungary</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>delivered</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>an</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>ultimatum</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>to</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Kingdom</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>of</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Serbia</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>,</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>and</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>entangled</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>international</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>alliances</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>formed</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>over</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>previous</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>decades</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>were</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <value>invoked.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Within</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>weeks</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>,</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>major</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>powers</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>were</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>at</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>war</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>and</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>conflict</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>soon</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>spread</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>around</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <value>world.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>I</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>don</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>'t</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>want</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>to</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>make</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>-</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
+            <value>1,000,000.00</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <value>tomorrow.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token isAbbreviation="true" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Mr.</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>Johnson</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>went</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>to</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <value>the</value>
+        </token>
+        <token isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <value>store.</value>
+        </token>
+    </sentence>
+</sentenceList>
