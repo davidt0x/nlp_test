@@ -2,12 +2,14 @@ package nlp_test;
 
 import java.util.regex.Pattern;
 
+
 /*
  * I use this for XML serialization. I hope that is ok. 
  */
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlSeeAlso;
 
 /**
  * This class stores a token of text along with annotations that we need
@@ -24,6 +26,32 @@ public class Token {
 	 * The raw value of the token. 
 	 */
 	protected String token;
+	
+	/*
+	 * This index of the start of this token within the original text it 
+	 * was extracted from.
+	 */
+	protected int pos;
+	
+	/**
+	 * Set the position that this token was found at within the string.
+	 * @param pos The integer index of the token's start.
+	 */
+	public void setPosition(int pos)
+	{
+		this.pos = pos;
+	}
+	
+	/**
+	 * Get the position within the original text that this token begins.
+	 * 
+	 * @return The integer index of the position.
+	 */
+	public int getPosition()
+	{
+		return(this.pos);
+	}
+	
 	
 	protected boolean isParaStart = false;
 	protected boolean isLineStart = false;
@@ -292,6 +320,21 @@ public class Token {
 		isLineStart = false;
 		isSentBreak = false;
 		isNonPunct = false;	
+	}
+	
+	protected Token(Token t)
+	{
+		this.token = t.token;
+		this.type = getTokenType();
+		this.isEllipsis = t.isEllipsis;
+		this.isInitial = t.isInitial;
+		this.isAlpha = t.isAlpha;
+		this.isNumber = t.isNumber;
+		this.isParaStart = t.isParaStart;
+		this.isLineStart = t.isLineStart;
+		this.isSentBreak = t.isSentBreak;
+		this.isNonPunct = t.isNonPunct;
+		this.pos = t.pos;
 	}
 	
 	/**

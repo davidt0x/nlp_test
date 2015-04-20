@@ -54,7 +54,7 @@ public class PunktAlgoBase implements SentenceTokenizer {
 	/* (non-Javadoc)
 	 * @see nlp_test.SentenceTokenizer#annotate(nlp_test.PunktTokenStream)
 	 */
-	public ArrayList<Token> annotate(PunktTokenStream stream)
+	public ArrayList<Token> annotate(TokenStream stream)
 	{
 		// We will just do simple first pass annotation.
 		return first_pass_annotate(stream);
@@ -66,12 +66,11 @@ public class PunktAlgoBase implements SentenceTokenizer {
 	 * @param stream Stream to annotate.
  	 * @return The list of all tokens annotated.
 	 */
-	protected ArrayList<Token> first_pass_annotate(PunktTokenStream stream)
+	protected ArrayList<Token> first_pass_annotate(TokenStream stream)
 	{
 		ArrayList<Token> tokList = new ArrayList<Token>();
 		List<String> sentence_end_chars = Arrays.asList(langVars.getSentenceEndChars());
-		
-		
+			
 		Token token;
 		while ( (token=stream.getToken()) != null )
 		{
@@ -127,7 +126,7 @@ public class PunktAlgoBase implements SentenceTokenizer {
 	 * @param text The original text before any tokenization.
 	 * @return
 	 */
-	public SentenceList buildSentenceList(String text, ArrayList<Token> tokens) {
+	public SentenceList buildSentenceList(String text, List<Token> tokens) {
 		ArrayList<Sentence> sents = new ArrayList<Sentence>();
 	
 		// Lets make a regex for whitespace
@@ -181,7 +180,7 @@ public class PunktAlgoBase implements SentenceTokenizer {
 			// before the token.
 			if(sentString != "")
 				sentString+=ws;
-			sentString+=tokVal;
+			sentString+=tok.toString();
 				
 			// Add this token to our sentence
 			sent.addToken(tok);

@@ -19,7 +19,7 @@ public class PunktAlgoBaseTest {
 		
 		String testString = "This is a sentence. Also one! Another one? End then ... \n\nNew paragraph.\nNew line. Mr.";
 		
-		PunktTokenStream stream = new PunktTokenStream(testString);
+		TokenStream stream = new PunktTokenStream(testString);
 		
 		ArrayList<Token> tokens = base.first_pass_annotate(stream);
 		

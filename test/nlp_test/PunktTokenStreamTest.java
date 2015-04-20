@@ -18,7 +18,7 @@ public class PunktTokenStreamTest {
 		for(String s: testTokens)
 			testString+=s;
 		
-		PunktTokenStream tStream = new PunktTokenStream(testString);
+		TokenStream tStream = new PunktTokenStream(testString);
 		
 		Token curr;
 		int i=0;

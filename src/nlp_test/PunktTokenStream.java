@@ -10,7 +10,7 @@ import java.util.regex.Matcher;
  * @author Dave Turner
  *
  */
-public class PunktTokenStream  {
+public class PunktTokenStream implements TokenStream  {
 
 	/*
 	 * This text we are processing
@@ -26,6 +26,21 @@ public class PunktTokenStream  {
 	 * What line number are we on?
 	 */
 	int currLineNum = 0;
+	
+	/*
+	 * Where in the original string are we?
+	 */
+	int currPos = 0;
+	
+	/*
+	 * Where are we within the current line we are processing?
+	 */
+	int currPosInline = 0;
+	
+	/*
+	 * Where was the previous match within the current line?
+	 */
+	int prevPosInline = 0;
 	
 	/*
 	 * The matcher for word tokens built by langVars
@@ -55,6 +70,11 @@ public class PunktTokenStream  {
 			
 		// Setup the matcher for the first line
 		wordMatcher = langVars.getWordTokenizePattern().matcher(lines[0]);
+		
+		currLineNum = 0;
+		currPos = 0;
+		currPosInline = 0;
+		prevPosInline = 0;
 	}
 	
 	public PunktTokenStream(String text, PunktLanguageVariables langVars)
@@ -89,11 +109,8 @@ public class PunktTokenStream  {
 	 */
 	private boolean isLineStart = false;
 	
-	/**
-	 * Get the next token in the stream. This function updates previous
-	 * token with the current token as a side effect.
-	 * 
-	 * @return The current token. Will be null when stream end is reached.
+	/* (non-Javadoc)
+	 * @see nlp_test.TokenStream#getToken()
 	 */
 	public Token getToken()
 	{
@@ -102,8 +119,14 @@ public class PunktTokenStream  {
 		// If we have no matches left on the current line, then move to the next
 		while(!matchFound)
 		{
+			// Move to the next line
 			currLineNum++;
 			isLineStart = true;
+			
+			// Add two to the position because we consumed an endline when splitting the lines
+			currPos+=2;
+			currPosInline=0;
+			prevPosInline=0;
 			
 			// If we have reached the end of the lines list. We are done.
 			if(currLineNum == lines.length)
@@ -117,6 +140,7 @@ public class PunktTokenStream  {
 			// will be annotated with a paragraph start tag
 			while(lines[currLineNum].trim().length() == 0)
 			{
+				currPos+=lines[currLineNum].length()+1;
 				currLineNum++;
 				isParaStart = true;
 				
@@ -133,14 +157,18 @@ public class PunktTokenStream  {
 			wordMatcher = langVars.getWordTokenizePattern().matcher(lines[currLineNum]);
 			
 			// Check if we have a match
+			prevPosInline = currPosInline;
 			matchFound = wordMatcher.find();
+			currPosInline = wordMatcher.start();
 		}
 
 		// If the above loop did not lead to a return then we know we
-		// have a match.
+		// have a match. Move the current position to offset of the match
+		prevPosInline = currPosInline;
+		currPosInline = wordMatcher.start();
+		currPos += (currPosInline - prevPosInline);
 		
 		// Grab the match and its start index.
-		int currMatchIndex = wordMatcher.start();
 		String currTok = wordMatcher.group();
 		
 		// Make the current guy, the new previous guy
@@ -152,18 +180,31 @@ public class PunktTokenStream  {
 		curr.setIsLineStart(isLineStart);
 		isLineStart = false;
 		isParaStart = false;
-		
+		curr.setPosition(currPos);
+	
+		// Make sure we got the correct token position
+		String checkText = text.substring(currPos, currPos+currTok.length());
+		if(!checkText.equals(currTok))
+		{
+			System.err.println("Tokenization error at index " + currPos);
+		}
+	
 		return curr;
 	}
 	
-	/**
-	 * Get the previous token that we processed.
-	 * 
-	 * @return The previous token, null if none.
+	/* (non-Javadoc)
+	 * @see nlp_test.TokenStream#getPreviousToken()
 	 */
 	public Token getPreviousToken()
 	{
 		return prev;
+	}
+
+	/* (non-Javadoc)
+	 * @see nlp_test.TokenStream#getText()
+	 */
+	public String getText() {
+		return text;
 	}
 	
 	
