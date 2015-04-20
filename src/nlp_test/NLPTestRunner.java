@@ -130,7 +130,17 @@ public class NLPTestRunner {
 			e.printStackTrace();
 		}
 	
-		
+		// =====================================================================
+		// 3. Run the above code on a zip file of text files.
+		// =====================================================================
+		System.out.println("\n3. =================================================");
+		String INPUT_FILE3 = "data/nlp_data.zip";
+		String OUTPUT_DIR = "test_out/nlp_data3";
+		int NUM_THREADS = 2;
+		ZipProcessor zp = new ZipProcessor(INPUT_FILE3, OUTPUT_DIR, NUM_THREADS);
+		System.out.print("Processing Zip File ... ");
+		zp.process();
+		System.out.println("Done");
 		
 	}
 
@@ -143,4 +153,5 @@ public class NLPTestRunner {
 	  byte[] encoded = Files.readAllBytes(Paths.get(path));
 	  return new String(encoded, encoding);
 	}
+	
 }

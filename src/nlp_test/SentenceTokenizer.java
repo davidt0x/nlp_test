@@ -15,6 +15,14 @@ public interface SentenceTokenizer {
 	 */
 	public abstract ArrayList<Token> annotate(TokenStream stream);
 
+	/**
+	 * Construct a sentence list object from and original text string and
+	 * the list of tokens.
+	 * 
+	 * @param text The original text the tokens are derived from.
+	 * @param tokens The tokens list.
+	 * @return
+	 */
 	public abstract SentenceList buildSentenceList(String text, List<Token> tokens);
 	
 }

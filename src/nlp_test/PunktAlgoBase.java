@@ -200,7 +200,10 @@ public class PunktAlgoBase implements SentenceTokenizer {
 		if(sents.get(sents.size()-1).toString() == "")
 			sents.remove(sents.size()-1);
 		
-		return new SentenceList(sents);
+		// Make the sentence list
+		SentenceList ret = new SentenceList(sents);
+		
+		return ret;
 	}
 	
 }

@@ -1,609 +1,700 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <sentenceList>
     <sentence>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
             <position>0</position>
-            <value>The</value>
+            <value>James</value>
+            <entities>James Clerk Maxwell</entities>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>6</position>
+            <value>Clerk</value>
+            <entities>James Clerk Maxwell</entities>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>12</position>
+            <value>Maxwell</value>
+            <entities>James Clerk Maxwell</entities>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>4</position>
-            <value>term</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>9</position>
-            <value>"</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>10</position>
-            <value>First</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>16</position>
-            <value>World</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>22</position>
-            <value>War</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>25</position>
-            <value>"</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>27</position>
+            <position>20</position>
             <value>was</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>31</position>
-            <value>first</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>37</position>
-            <value>used</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>42</position>
-            <value>in</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>45</position>
-            <value>September</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
-            <position>55</position>
-            <value>1914</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>60</position>
-            <value>by</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>63</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>67</position>
-            <value>German</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>74</position>
-            <value>philosopher</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>86</position>
-            <value>Ernst</value>
-            <entities>Ernst Haeckel</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>92</position>
-            <value>Haeckel</value>
-            <entities>Ernst Haeckel</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>99</position>
-            <value>,</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>101</position>
-            <value>who</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>105</position>
-            <value>claimed</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>113</position>
-            <value>that</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>118</position>
-            <value>"</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>119</position>
-            <value>there</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>125</position>
-            <value>is</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>128</position>
-            <value>no</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>131</position>
-            <value>doubt</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>137</position>
-            <value>that</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>142</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>146</position>
-            <value>course</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>153</position>
-            <value>and</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>157</position>
-            <value>character</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>167</position>
-            <value>of</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>170</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>174</position>
-            <value>feared</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>181</position>
-            <value>'European</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>191</position>
-            <value>War</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>194</position>
-            <value>'</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="true" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>196</position>
-            <value>...</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>200</position>
-            <value>will</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>205</position>
-            <value>become</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>212</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>216</position>
-            <value>first</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>222</position>
-            <value>world</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>228</position>
-            <value>war</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>232</position>
-            <value>in</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>235</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>239</position>
-            <value>full</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>244</position>
-            <value>sense</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>250</position>
-            <value>of</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>253</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>257</position>
-            <value>word.</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
-            <position>262</position>
-            <value>"</value>
-        </token>
-    </sentence>
-    <sentence>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="true" isNumber="false" isParaStart="true" isSentBreak="false">
-            <position>265</position>
-            <value>Why</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>269</position>
-            <value>did</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>273</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>277</position>
-            <value>war</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>281</position>
-            <value>begin</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
-            <position>286</position>
-            <value>?</value>
-        </token>
-    </sentence>
-    <sentence>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>288</position>
-            <value>The</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>292</position>
-            <value>immediate</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>302</position>
-            <value>trigger</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>310</position>
-            <value>for</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>314</position>
-            <value>war</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>318</position>
-            <value>was</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>322</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
-            <position>326</position>
-            <value>28</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>329</position>
-            <value>June</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
-            <position>334</position>
-            <value>1914</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>339</position>
-            <value>assassination</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>353</position>
-            <value>of</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>356</position>
-            <value>Archduke</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>365</position>
-            <value>Franz</value>
-            <entities>Franz Ferdinand</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>371</position>
-            <value>Ferdinand</value>
-            <entities>Franz Ferdinand</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>381</position>
-            <value>of</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>384</position>
-            <value>Austria</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>391</position>
-            <value>,</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>393</position>
-            <value>heir</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>398</position>
-            <value>to</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>401</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>405</position>
-            <value>throne</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>412</position>
-            <value>of</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>415</position>
-            <value>Austria-Hungary</value>
-            <entities>Austria-Hungary</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>430</position>
-            <value>,</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>432</position>
-            <value>by</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>435</position>
-            <value>Yugoslav</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>444</position>
-            <value>nationalist</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>456</position>
-            <value>Gavrilo</value>
-            <entities>Gavrilo Princip</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>464</position>
-            <value>Princip</value>
-            <entities>Gavrilo Princip</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>472</position>
-            <value>(</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="true" isParaStart="false" isSentBreak="false">
-            <position>473</position>
-            <value>19</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>476</position>
-            <value>years</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>482</position>
-            <value>old</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>486</position>
-            <value>at</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>489</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>493</position>
-            <value>time</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>497</position>
-            <value>)</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>499</position>
-            <value>in</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
-            <position>502</position>
-            <value>Sarajevo.</value>
-            <entities>Sarajevo</entities>
-        </token>
-    </sentence>
-    <sentence>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>512</position>
-            <value>This</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>517</position>
-            <value>set</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>521</position>
-            <value>off</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>525</position>
+            <position>24</position>
             <value>a</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>527</position>
-            <value>diplomatic</value>
+            <position>26</position>
+            <value>Scottish</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>538</position>
-            <value>crisis</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>545</position>
-            <value>when</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>550</position>
-            <value>Austria-Hungary</value>
-            <entities>Austria-Hungary</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>566</position>
-            <value>delivered</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>576</position>
-            <value>an</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>579</position>
-            <value>ultimatum</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>589</position>
-            <value>to</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>592</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>596</position>
-            <value>Kingdom</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>604</position>
-            <value>of</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>607</position>
-            <value>Serbia</value>
-            <entities>Serbia</entities>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>613</position>
-            <value>,</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>615</position>
-            <value>and</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>619</position>
-            <value>entangled</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>629</position>
-            <value>international</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>643</position>
-            <value>alliances</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>653</position>
-            <value>formed</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>660</position>
-            <value>over</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>665</position>
-            <value>the</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>669</position>
-            <value>previous</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>678</position>
-            <value>decades</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>686</position>
-            <value>were</value>
+            <position>35</position>
+            <value>mathematical</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
-            <position>691</position>
-            <value>invoked.</value>
+            <position>48</position>
+            <value>physicist.</value>
         </token>
     </sentence>
     <sentence>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>700</position>
-            <value>Within</value>
+            <position>59</position>
+            <value>His</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>707</position>
-            <value>weeks</value>
+            <position>63</position>
+            <value>most</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>712</position>
+            <position>68</position>
+            <value>notable</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>76</position>
+            <value>achievement</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>88</position>
+            <value>was</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>92</position>
+            <value>to</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>95</position>
+            <value>formulate</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>105</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>109</position>
+            <value>classical</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>119</position>
+            <value>theory</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>126</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>129</position>
+            <value>electromagnetic</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>145</position>
+            <value>radiation</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>154</position>
             <value>,</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>714</position>
+            <position>156</position>
+            <value>bringing</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>165</position>
+            <value>together</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>174</position>
+            <value>for</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>178</position>
             <value>the</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>718</position>
-            <value>major</value>
+            <position>182</position>
+            <value>first</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>724</position>
-            <value>powers</value>
+            <position>188</position>
+            <value>time</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>731</position>
-            <value>were</value>
+            <position>193</position>
+            <value>electricity</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>736</position>
-            <value>at</value>
+            <position>204</position>
+            <value>,</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>739</position>
-            <value>war</value>
+            <position>206</position>
+            <value>magnetism</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>743</position>
+            <position>215</position>
+            <value>,</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>217</position>
             <value>and</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>747</position>
+            <position>221</position>
+            <value>light</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>227</position>
+            <value>as</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>230</position>
+            <value>manifestations</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>245</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>248</position>
             <value>the</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>751</position>
-            <value>conflict</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>760</position>
-            <value>soon</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>765</position>
-            <value>spread</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>772</position>
-            <value>around</value>
-        </token>
-        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
-            <position>779</position>
-            <value>the</value>
+            <position>252</position>
+            <value>same</value>
         </token>
         <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
-            <position>783</position>
-            <value>world.</value>
+            <position>257</position>
+            <value>phenomenon.</value>
         </token>
     </sentence>
-    <stringAnnotated>The term "First World War" was first used in September 1914 by the German philosopher Ernst&lt;Ent&gt; Haeckel&lt;Ent&gt;, who claimed that "there is no doubt that the course and character of the feared 'European War' ...&lt;E&gt; will become the first world war in the full sense of the word."&lt;S&gt;
-Why did the war begin?&lt;S&gt;
-The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz&lt;Ent&gt; Ferdinand&lt;Ent&gt; of Austria, heir to the throne of Austria-Hungary&lt;Ent&gt;, by Yugoslav nationalist Gavrilo&lt;Ent&gt; Princip&lt;Ent&gt; (19 years old at the time) in Sarajevo.&lt;S&gt;&lt;Ent&gt;
-This set off a diplomatic crisis when Austria-Hungary&lt;Ent&gt; delivered an ultimatum to the Kingdom of Serbia&lt;Ent&gt;, and entangled international alliances formed over the previous decades were invoked.&lt;S&gt;
-Within weeks, the major powers were at war and the conflict soon spread around the world.&lt;S&gt;
+    <sentence>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>269</position>
+            <value>Maxwell</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>276</position>
+            <value>'s</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>279</position>
+            <value>equations</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>289</position>
+            <value>for</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>293</position>
+            <value>electromagnetism</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>310</position>
+            <value>have</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>315</position>
+            <value>been</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>320</position>
+            <value>called</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>327</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>331</position>
+            <value>"</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>332</position>
+            <value>second</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>339</position>
+            <value>great</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>345</position>
+            <value>unification</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>357</position>
+            <value>in</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>360</position>
+            <value>physics</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>367</position>
+            <value>"</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>369</position>
+            <value>after</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>375</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>379</position>
+            <value>first</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>385</position>
+            <value>one</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>389</position>
+            <value>realised</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>398</position>
+            <value>by</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>408</position>
+            <value>Isaac</value>
+            <entities>Isaac Newton</entities>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>414</position>
+            <value>Newton</value>
+            <entities>Newton</entities>
+            <entities>Isaac Newton</entities>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="true" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>420</position>
+            <value>...</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>424</position>
+            <value>Maxwell</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>432</position>
+            <value>demonstrated</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>445</position>
+            <value>that</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>450</position>
+            <value>electric</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>459</position>
+            <value>and</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>463</position>
+            <value>magnetic</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>472</position>
+            <value>fields</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>479</position>
+            <value>travel</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>486</position>
+            <value>through</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>494</position>
+            <value>space</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>500</position>
+            <value>as</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>503</position>
+            <value>waves</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>509</position>
+            <value>moving</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>516</position>
+            <value>at</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>519</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>523</position>
+            <value>speed</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>529</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <position>532</position>
+            <value>light.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>539</position>
+            <value>Maxwell</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>547</position>
+            <value>proposed</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>556</position>
+            <value>that</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>561</position>
+            <value>light</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>567</position>
+            <value>is</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>570</position>
+            <value>an</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>573</position>
+            <value>undulation</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>584</position>
+            <value>in</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>587</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>591</position>
+            <value>same</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>596</position>
+            <value>medium</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>603</position>
+            <value>that</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>608</position>
+            <value>is</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>611</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>615</position>
+            <value>cause</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>621</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>624</position>
+            <value>electric</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>633</position>
+            <value>and</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>637</position>
+            <value>magnetic</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <position>646</position>
+            <value>phenomena.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>657</position>
+            <value>The</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>661</position>
+            <value>unification</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>677</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>680</position>
+            <value>light</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>686</position>
+            <value>and</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>690</position>
+            <value>electrical</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>701</position>
+            <value>phenomena</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>711</position>
+            <value>led</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>715</position>
+            <value>to</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>718</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>722</position>
+            <value>prediction</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>733</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>736</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>740</position>
+            <value>existence</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>750</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>753</position>
+            <value>radio</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <position>759</position>
+            <value>waves.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>766</position>
+            <value>His</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>770</position>
+            <value>discoveries</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>782</position>
+            <value>helped</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>789</position>
+            <value>usher</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>795</position>
+            <value>in</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>798</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>802</position>
+            <value>era</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>806</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>809</position>
+            <value>modern</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>816</position>
+            <value>physics</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>823</position>
+            <value>,</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>825</position>
+            <value>laying</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>832</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>836</position>
+            <value>foundation</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>847</position>
+            <value>for</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>851</position>
+            <value>such</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>856</position>
+            <value>fields</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>863</position>
+            <value>as</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>866</position>
+            <value>special</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>874</position>
+            <value>relativity</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>885</position>
+            <value>and</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>889</position>
+            <value>quantum</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <position>897</position>
+            <value>mechanics.</value>
+        </token>
+    </sentence>
+    <sentence>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>908</position>
+            <value>His</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>912</position>
+            <value>contributions</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>926</position>
+            <value>to</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>929</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>933</position>
+            <value>science</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>941</position>
+            <value>are</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>945</position>
+            <value>considered</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>956</position>
+            <value>by</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>959</position>
+            <value>many</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>964</position>
+            <value>to</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>967</position>
+            <value>be</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>970</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>973</position>
+            <value>the</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>977</position>
+            <value>same</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>982</position>
+            <value>magnitude</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>992</position>
+            <value>as</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>995</position>
+            <value>those</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>1001</position>
+            <value>of</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>1004</position>
+            <value>Isaac</value>
+            <entities>Isaac Newton</entities>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>1010</position>
+            <value>Newton</value>
+            <entities>Newton</entities>
+            <entities>Isaac Newton</entities>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="false" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>1017</position>
+            <value>and</value>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="false">
+            <position>1021</position>
+            <value>Albert</value>
+            <entities>Albert Einstein</entities>
+        </token>
+        <token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tokenNE" isNamedEntity="true" isAbbreviation="false" isEllipsis="false" isInitial="false" isLineStart="false" isNumber="false" isParaStart="false" isSentBreak="true">
+            <position>1028</position>
+            <value>Einstein.</value>
+            <entities>Albert Einstein</entities>
+        </token>
+    </sentence>
+    <stringAnnotated>James&lt;Ent&gt; Clerk&lt;Ent&gt; Maxwell&lt;Ent&gt; was a Scottish mathematical physicist.&lt;S&gt;
+His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon.&lt;S&gt;
+Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        Isaac&lt;Ent&gt; Newton&lt;Ent&gt;...&lt;E&gt; Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.&lt;S&gt;
+Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena.&lt;S&gt;
+The unification     of light and electrical phenomena led to the prediction of the existence of radio waves.&lt;S&gt;
+His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics.&lt;S&gt;
+His contributions to the science are considered by many to be of the same magnitude as those of Isaac&lt;Ent&gt; Newton&lt;Ent&gt; and Albert&lt;Ent&gt; Einstein.&lt;S&gt;&lt;Ent&gt;
 </stringAnnotated>
 </sentenceList>

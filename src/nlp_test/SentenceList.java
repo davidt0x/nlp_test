@@ -19,6 +19,24 @@ import javax.xml.bind.annotation.XmlSeeAlso;
 @XmlSeeAlso(Sentence.class)
 public class SentenceList extends AbstractList<Sentence> {
 
+	 /*
+     * This annotated string representation for this sentence list.
+     */
+    protected String stringRep;
+    
+    /**
+     * Get the annotated string representation of this sentence list.
+     * @return
+     */
+    @XmlElement(name="stringAnnotated")
+    public String getStringRepresentation()
+    {
+    	if(stringRep == null)
+    		stringRep = toString();
+    	
+    	return stringRep;
+    }
+	
 	@XmlElement(name="sentence")
     private List<Sentence> list = new ArrayList<Sentence>();
 	
@@ -42,13 +60,31 @@ public class SentenceList extends AbstractList<Sentence> {
         return list.size();
     }
     
+    /**
+     * Create a sentence list object from a collections of sentences.
+     * 
+     * @param list
+     * @param stringRep
+     */
     public SentenceList(List<Sentence> list)
     {
     	this.list = list;
     }
     
+    /**
+     * Create and empty sentence list.
+     */
     public SentenceList()
     {
+   
+    }
+   
+    public String toString()
+    {
+    	stringRep = "";
+    	for(Sentence s: list)
+    		stringRep += s + "\n";
     	
+    	return stringRep;
     }
 }

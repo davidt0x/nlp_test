@@ -114,7 +114,7 @@ public class SimpleNamedEntityMatcher extends NamedEntityMatcher {
 	
 	/*
 	 * This function performs a modified binary search on a set of tokens
-	 * looking for tokens whos position fall within an upper and lower 
+	 * looking for tokens whose position fall within an upper and lower 
 	 * bound inclusive.
 	 */
 	List<Integer> binaryRangeSearch(List<Token> tokens, int lower, int upper)
@@ -150,7 +150,10 @@ public class SimpleNamedEntityMatcher extends NamedEntityMatcher {
 				end = midPt - 1;
 			else // They are equal. 
 			{
-				while(tokens.get(midPt).getPosition() == limit) {midPt++;}
+				if(midPt == tokens.size()-1)
+					return midPt;
+				
+				while(midPt < tokens.size() && tokens.get(midPt).getPosition() == limit) {midPt++;}
 				return midPt - 1;
 			}
 		}
@@ -181,7 +184,11 @@ public class SimpleNamedEntityMatcher extends NamedEntityMatcher {
 				end = midPt - 1;
 			else // They are equal. 
 			{
-				while(tokens.get(midPt).getPosition() == limit) {midPt--;}
+				if(midPt == 0)
+					return midPt;
+				
+				while(midPt > 0 && tokens.get(midPt).getPosition() == limit) {midPt--;}
+				
 				return midPt + 1;
 			}
 		}
